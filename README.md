@@ -1,7 +1,7 @@
 
 ## To start an application:
 ```
-Git clone git@github.com:gavinmcdavitt/StateParkApp.git](https://github.com/comurphy22/State-Park-App.git)
+Git clone https://github.com/comurphy22/State-Park-App.git
 cd StateParkApp
 npm install
 npm start
